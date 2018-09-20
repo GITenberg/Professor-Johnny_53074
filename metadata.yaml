@@ -1,0 +1,33 @@
+_repo: Professor-Johnny_53074
+_version: 0.0.1
+creator:
+  author:
+    agent_name: J. Ā. K.
+    aliases:
+    - J.Ā.K.
+    - JAK
+    - J. A. K.
+    - JĀK
+    - J.A.K.
+    gutenberg_agent_id: '47210'
+    url: http://www.gutenberg.org/2009/agents/47210
+    wikipedia: http://www.gutenberg.org/ebooks/author/48440
+description: ''
+gutenberg_issued: '2016-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Play -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Scientific recreations -- Juvenile fiction'
+- !lcsh 'Physical sciences -- Juvenile fiction'
+- GITenberg
+title: Professor Johnny
+url: http://www.gutenberg.org/ebooks/53074
